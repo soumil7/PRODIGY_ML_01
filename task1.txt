@@ -1,0 +1,34 @@
+Task 1: Implementing Linear Regression Model
+Data Exploration:
+
+Download the dataset from the provided Kaggle link.
+Explore the dataset to understand its structure, features, and characteristics.
+Identify the relevant columns for your linear regression model (square footage, number of bedrooms, number of bathrooms, and the target variable - house prices).
+Data Preprocessing:
+
+Handle any missing or null values in the dataset.
+Check for outliers and decide on an approach to handle them (remove outliers, transform data, etc.).
+Convert categorical variables into numerical format if needed.
+Data Visualization:
+
+Create visualizations (e.g., scatter plots, histograms) to understand the distribution of the features and the target variable.
+Check for correlations between features and the target variable.
+Splitting the Data:
+
+Split the dataset into training and testing sets. This is essential for evaluating the performance of your model.
+Linear Regression Model:
+
+Implement a linear regression model using a machine learning library (e.g., scikit-learn in Python).
+Train the model using the training dataset.
+Model Evaluation:
+
+Evaluate the performance of your model on the testing dataset. Common evaluation metrics for regression models include Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared.
+Interpret Results:
+
+Interpret the results of your model. Understand the coefficients assigned to each feature and how they contribute to predicting house prices.
+GitHub Repository:
+
+Upload your code to the GitHub repository following the naming convention provided in the general instructions.
+LinkedIn Post:
+
+Create a post on LinkedIn summarizing Task 1. Highlight what you learned, the challenges you faced, and any insights gained from implementing the linear regression model. Optionally, include a video explaining your work.
